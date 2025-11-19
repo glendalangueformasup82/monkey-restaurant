@@ -1,0 +1,41 @@
+.hero {
+  background-color: #1bb16bab;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero img {
+  height: 80%;
+}
+
+.contect1 {
+  display: flex;
+  align-items: center;
+  background-color: #1bb16b73;
+}
+
+.contect1 .text {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(203, 233, 221);
+  margin: 50px;
+  padding: 20px;
+}
+
+.contect1 .text h1 {
+  font-size: 5em;
+  padding-bottom: 50px;
+}
+
+.contect1 .text h2 {
+  font-size: 2em;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.contect1 .side img {
+  width: 500px;
+  height: 700px;
+  margin: 50px;
+}

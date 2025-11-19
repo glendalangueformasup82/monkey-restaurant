@@ -1,0 +1,15 @@
+.info li {
+  list-style: none;
+}
+
+.info {
+  height: 80%;
+  width: 80%;
+  background-color: beige;
+  padding: 20px;
+}
+
+.info .infocol {
+  display: flex;
+  justify-content: space-around;
+}
